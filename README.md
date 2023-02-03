@@ -10,11 +10,11 @@ My name is Duc Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial
 
 <a href="https://github.com/xuanduc299/L3_java/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuanduc299&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuanduc299&repo=L3_java&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/xuanduc299/BThi_AppSell_react_native">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuanduc299&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xuanduc299&repo=BThi_AppSell_react_native&theme=merko" />
 </a>
 
 
