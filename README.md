@@ -1,5 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duc Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Duc Nguyen.
+<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/đức-nguyễn-xuân-608840263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/xuanduc299/)
